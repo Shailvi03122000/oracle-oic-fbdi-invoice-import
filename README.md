@@ -59,8 +59,11 @@ The integration retrieves a zipped CSV file from a secure FTP location and uploa
   4. **Data Mapping**:
      - Map File Reference, Directory, and Filename from FTP to ERP input
   5. **(Optional)**: Add notification or fault handling
+ 
+  6. ### 📷 Integration Flow Diagram
+![Integration Flow]([images/integration-flow.png](https://github.com/Shailvi03122000/oracle-oic-fbdi-invoice-import))
 
-### 🔹 5. Activate and Run
+### 🔹 5. Activate and Run 
 
 - Activate the integration
 - Run manually or wait for the schedule
